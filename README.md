@@ -6,3 +6,4 @@
 - **промпрог_дз3** - наследование, классы, атрибуты, итераторы.
 -  **промпрог_дз4** - метаклассы, датаклассы, абстрактные классы
 - **flash_cards.py & test_flash_cards.py** - unittests, Mock
+''' pytest --cov=flash_cards test_flash_cards.py ''' - coverage
