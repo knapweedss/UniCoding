@@ -7,6 +7,6 @@
 -  **промпрог_дз4** - метаклассы, датаклассы, абстрактные классы
 - **flash_cards.py & test_flash_cards.py** - unittests, Mock
 -coverage
-''' 
+''
 pytest --cov=flash_cards test_flash_cards.py 
-''' 
+''
