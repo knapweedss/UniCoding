@@ -9,3 +9,4 @@
 ```
 pytest --cov=flash_cards test_flash_cards.py 
 ```
+- **dz1_Dolgodvorova_Maria.ipynb** - машинное обучение, бинарная классификация
